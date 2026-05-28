@@ -1,0 +1,7 @@
+# Localization file for Tibetan of terms integration plugin.
+bo:
+    activeresource:
+        models:
+            terms_integration/feature:
+                one: 'term'
+                other: 'terms'

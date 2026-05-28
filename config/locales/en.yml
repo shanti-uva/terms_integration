@@ -1,0 +1,7 @@
+# Localization file for English of terms integration plugin.
+en:
+    activeresource:
+        models:
+            terms_integration/feature:
+                one: 'term'
+                other: 'terms'

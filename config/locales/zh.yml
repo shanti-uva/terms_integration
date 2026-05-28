@@ -1,0 +1,7 @@
+# Localization file for Chinese of terms integration plugin.
+zh:
+    activeresource:
+        models:
+            terms_integration/feature:
+                one: 'term'
+                other: 'terms'

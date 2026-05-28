@@ -1,0 +1,7 @@
+# Localization file for Dzongkha of terms integration plugin.
+dz:
+    activeresource:
+        models:
+            terms_integration/feature:
+                one: 'term'
+                other: 'terms'
