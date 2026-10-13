@@ -13,6 +13,8 @@ module TermsIntegration
       self.site = "https://nod-terms.utm.utoronto.ca/"
     when InterfaceUtils::Server::LOCAL
       self.site = "http://localhost/shanti/terms/"
+    when InterfaceUtils::Server::NOD_LOCAL
+      self.site = "http://localhost/nod/terms/"
     else
       self.site = "https://terms.kmaps.virginia.edu/"
     end
